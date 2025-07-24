@@ -26,3 +26,5 @@ variable "rules" {
         description = "allow web server connectivity"
      }]
 }
+
+changes done this line
